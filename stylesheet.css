@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
 /* Reset some default styles */
 body, h1, h2, p, ul, ol {
   margin: 0;
@@ -24,7 +26,7 @@ header {
 
 header nav ul {
   display: flex;
-  justify-content: center;
+  justify-content: right;
   list-style-type: none;
 }
 
@@ -33,7 +35,7 @@ header nav ul li {
 }
 
 header nav ul li:last-child {
-  margin-right: 0;
+  margin-right: 300px;
 }
 
 header nav ul li a {
@@ -53,8 +55,7 @@ main {
   padding: 2rem;
   max-width: 1200px;
   margin: 0 auto;
-  background-color: rgba(255, 255, 255, 0.9);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  background-color: #eee;
   border-radius: 10px;
 }
 
@@ -75,6 +76,45 @@ ul li, ol li {
   margin-left: 1.5rem;
 }
 
+span {
+  color:#b74170c3;
+}
+
+.intro {
+  margin: 120px auto 100px auto
+}
+.inner {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.name_jp {
+  font-family: 'Noto Sans JP';
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 0;
+  letter-spacing: 0.15em;
+}
+
+.name_en {
+  font-family: 'Noto Sans JP';
+  font-size: 20px;
+  font-weight: 100;
+  letter-spacing: 0.05em;
+}
+
+.img_profile {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius:50%;
+}
+
+.introduction {
+  font-size: 14px;
+  width: 370px;
+}
+
 /* Footer styles */
 footer {
   background-color: rgba(0, 0, 0, 0.75);
@@ -83,3 +123,45 @@ footer {
   padding: 1rem 0;
   margin-top: 2rem;
 }
+
+
+.follow-me {
+  list-style: none;
+  margin: 0 0 -8px;
+  overflow: hidden;
+  padding: 0;
+}
+.follow-me li {
+  float: left;
+  margin: 0 8px 8px 0;
+  padding: 0;
+}
+.follow-me li a::before {
+  background-color: #eee;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  color: #333;
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: 16px;
+  height: 44px; /* Button height */
+  line-height: 44px; /* Button height */
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  text-align: center;
+  width: 44px; /* Button width */
+}
+
+.follow-me li a:hover::before {
+  color: #fff;
+}
+
+.follow-me li a[href*="github.com"]::before         { content: "\f09b"; }
+.follow-me li a[href*="youtube.com"]::before        { content: "\f16a"; }
+.follow-me li a[href*="twitter.com"]::before        { content: "\f099"; }
+.follow-me li a[href*="instagram.com"]::before      { content: "\f16d"; }
+
+.follow-me li a[href*="github.com"]:hover::before         { background-color: #181717; }
+.follow-me li a[href*="instagram.com"]:hover::before      { background-color: #125688; }
+.follow-me li a[href*="youtube.com"]:hover::before        { background-color: #cd201f; }
+.follow-me li a[href*="twitter.com"]:hover::before        { background-color: #55acee; }

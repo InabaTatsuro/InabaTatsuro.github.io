@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="稲葉達郎, Tatsuro, Inaba, ポートフォリオ">
     <title>稲葉達郎 | Tatsuro Inaba</title>
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -11,8 +12,15 @@
 
 <body>
     <header>
-        <nav>
-            <ul>
+        <div class="btn_position">
+            <div class="responsive_btn">
+                <div class="menu_line"></div>
+                <div class="menu_line"></div>
+                <div class="menu_line"></div>
+            </div>
+        </div>
+        <nav class="header_nav">
+            <ul class="header_nav_lists">
                 <li><a href="#about">About</a></li>
                 <li><a href="#career">Career</a></li>
                 <li><a href="#publications">Publications</a></li>
@@ -21,6 +29,7 @@
             </ul>
         </nav>
     </header>
+    <script src="stylesheet.js"></script>
     <main>
         <section class="intro">
             <div align="center">
@@ -34,58 +43,57 @@
                 </p>
             </div>
         </section>
-        
-        <section id="about">
-            <h2>About</h2>
-            <ul>
-                <li>京都大学情報学研究科知能情報専攻 修士1年 (2023/4-)</li>
-                <li>音声メディア研究室</li>
-                <li>研究分野: NLP・音楽生成
+        <div class="contents">
+            <section id="about">
+                <h2>About</h2>
+                <ul>
+                    <li>京都大学情報学研究科知能情報専攻 修士1年 (2023/4-)</li>
+                    <li>音声メディア研究室</li>
+                    <li>研究分野: NLP・音楽生成
+                </ul>
+            </section>
+            <section id="career">
+                <h2>Career</h2>
+                <ul>
+                    <li>2019/4 - 2023/3: 京都大学工学部電気電子工学科</li>
+                    <li>2022/11 - Now: 株式会社データグリッド</li>
+                    <li>2023/4 - Now: 京都大学情報学研究科知能情報専攻 - 修士課程</li>
+                </ul>
+            </section>
+            <section id="publications">
+                <h2>Publications</h2>
+                <ul>
+                    <li>
+                        大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク<br>
+                        稲葉 達郎, 清丸 寛一, Fei Cheng, 黒橋 禎夫<br>
+                        言語処理学会第29回年次大会, March 2023, <span>優秀賞</span><br>
+                        [<a href="https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q8-10.pdf">paper</a>]
+
+                    </li>
+                </ul>
+            </section>
+            <section id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>TOEIC L&R: 845 (May 2022)</li>
+                    <li>Atcoder: 緑 (<a href="https://atcoder.jp/users/nia_pfgt">Nia_pfgt</a>)</li>
+                </ul>
+            </section>
+            <section id="contact">
+            <h2>Contact</h2>
+
+            <a>Mail: inaba.tatsuro.73c[at]st.kyoto-u.ac.jp</a>
+
+
+            <ul class="follow-me">
+                <li><a href="https://github.com/InabaTatsuro"></a></li>
+                <li><a href="https://twitter.com/Ina_pfgt"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCbC1FSperBv4ea-PyTRpGQw"></a></li>
+
+                <li><a href="/feed"></a></li>
             </ul>
-        </section>
-        <section id="career">
-            <h2>Career</h2>
-            <ul>
-                <li>2019/4 - 2023/3: 京都大学工学部電気電子工学科</li>
-                <li>2022/11 - Now: 株式会社データグリッド</li>
-                <li>2023/4 - Now: 京都大学情報学研究科知能情報専攻 - 修士課程</li>
-            </ul>
-        </section>
-        <section id="publications">
-            <h2>Publications</h2>
-            <ul>
-                <li>
-                    大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク<br>
-                    稲葉 達郎, 清丸 寛一, Fei Cheng, 黒橋 禎夫<br>
-                    言語処理学会第29回年次大会, March 2023, <span>優秀賞</span><br>
-                    [<a href="https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q8-10.pdf">paper</a>]
-
-                </li>
-            </ul>
-        </section>
-        <section id="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>TOEIC L&R: 845 (May 2022)</li>
-                <li>Atcoder: 緑 (<a href="https://atcoder.jp/users/nia_pfgt">Nia_pfgt</a>)</li>
-            </ul>
-        </section>
-        <section id="contact">
-        <h2>Contact</h2>
-
-        <a>Mail: inaba.tatsuro.73c[at]st.kyoto-u.ac.jp</a>
-        <a>Twitter</a>
-
-
-        <ul class="follow-me">
-            <li><a href="https://github.com/InabaTatsuro"></a></li>
-            <li><a href="https://twitter.com/Ina_pfgt"></a></li>
-            <li><a href="https://www.youtube.com/channel/UCbC1FSperBv4ea-PyTRpGQw"></a></li>
-
-            <li><a href="/feed"></a></li>
-        </ul>
-    </section>
-
+            </section>
+        </div>
     </main>
     <footer>
         <p>&copy; March 2023 Tatsuro Inaba. All rights reserved.</p>

@@ -149,11 +149,8 @@ span {
 }
 
 .intro {
+  width: 370px;
   margin: 120px auto 100px auto
-}
-.inner {
-  width: 800px;
-  margin: 0 auto;
 }
 
 .name_jp {
@@ -181,6 +178,22 @@ span {
 .introduction {
   font-size: 14px;
   width: 370px;
+
+}
+
+
+@media screen and (max-width: 560px) {
+  main {
+    padding: 1rem;
+  }
+  .intro {
+    width: 330px;
+  }
+  
+  .introduction {
+    font-size: 13px;
+    width: 330px;
+  }
 }
 
 /* Footer styles */

@@ -13,7 +13,7 @@ Hello, my name is Tatsuro Inaba. I'm currently a first-year master's student stu
 
 My research interest lies in the applications of **Large Language Models** and **Symbolic Music Generation**. In paticular, I've been deeply interested in the investigation of various extensions and learning methods that reflect a **human perspective** (e.g., Curriculum learning, External tools/knowledge).
 
-I'm planning to pursue a Ph.D., intending to enroll in 2025. However, I have yet to decide where I'll be taking.
+I'm planning to pursue a Ph.D., intending to enroll in 2025.
 
 ## News
 

@@ -14,6 +14,7 @@ permalink: /publications/
 <em>{{pub.conf}} </em>
 <a href="{{pub.code}}">[code]</a>
 <a href="{{pub.paper}}">[paper]</a>
+<a href="{{pub.poster}}">[poster]</a>
 <span style="color: #b74170;"><br>{{pub.award}}</span>
 </p>
 {% endfor %}

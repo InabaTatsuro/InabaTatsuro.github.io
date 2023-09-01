@@ -4,8 +4,8 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_en/
+  - /about_en.html
 ---
 
 ## Bio
@@ -13,11 +13,9 @@ Hello, my name is Tatsuro Inaba.
 I'm currently a first-year master's student studying in the [Intelligence Science and Technology Course](https://www.ist.i.kyoto-u.ac.jp/) at Kyoto University.
 I belong to the [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/), advised by [Kazuyoshi Yoshii](http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/).
 
-Keywords
-- Music Information Retrieval
+Keywords: Music Information Retrieval, Natural Language Processing
   - Symbolic Music Generation
   - Automatic Music Transcription
-- Natural Language Processing
   - Chain-of-Thought (CoT)
   - Knowledge Distillation
   - Knowledge Retrieval

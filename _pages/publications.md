@@ -11,7 +11,7 @@ permalink: /publications/
 {% for pub in site.data.publications_international.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
-{{pub.title}} <br>
+"{{pub.title}}" <br>
 <em>{{pub.conf}} </em>
 <a href="{{pub.code}}">[code]</a>
 <a href="{{pub.paper}}">[paper]</a>
@@ -24,8 +24,8 @@ permalink: /publications/
 {% for pub in site.data.publications_domestic.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
-English Title: {{pub.title}} <br>
-Japanese Title: {{pub.yomi}} <br>
+"{{pub.title}}" <br>
+「{{pub.yomi}}」 <br>
 <em>{{pub.conf}} </em>
 <a href="{{pub.code}}">[code]</a>
 <a href="{{pub.paper}}">[paper]</a>

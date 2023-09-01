@@ -10,7 +10,7 @@ main:
 - title: "Reasoning Framework with Using Multiple External Tools based on LLMs"
   name: "<b>Tatsuro Inaba</b>, Hirokazu Kiyomaru, Fei Cheng, and Sadao Kurohashi"
   yomi: "大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク"
-  conf: "The Association for the 29th Natural Language Processing (NLP2023) in Japan."
+  conf: "The Association for the 29th Natural Language Processing (NLP 2023) in Japan."
   paper: "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q8-10.pdf"
   poster: "https://inabatatsuro.github.io/documents/NLP2023_poster.pdf"
   award: "Outstanding Award (13/579)"

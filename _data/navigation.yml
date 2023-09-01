@@ -10,3 +10,6 @@ main:
 
   - title: "Activities"
     url: /activities/
+  
+  - title: "Skills"
+    url: /skills/

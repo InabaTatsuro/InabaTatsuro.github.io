@@ -14,12 +14,12 @@ I'm currently a first-year master's student studying in the [Intelligence Scienc
 I belong to the [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/), advised by [Kazuyoshi Yoshii](http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/).
 
 Keywords: Music Information Retrieval, Natural Language Processing
-  - Symbolic Music Generation
-  - Automatic Music Transcription
-  - Chain-of-Thought (CoT)
-  - Knowledge Distillation
-  - Knowledge Retrieval
-  - Tool Augmented Model
+- Symbolic Music Generation
+- Automatic Music Transcription
+- Chain-of-Thought (CoT)
+- Knowledge Distillation
+- Knowledge Retrieval
+- Tool Augmented Model
 
 I hope to create an AI that assists in difficult situations rather than taking away human pleasures.
 

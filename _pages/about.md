@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "About ja"
 excerpt: "About me ja"
 author_profile: true
@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-[English page(html)](about_en.html)
 
 [English page(md)](about_en.md)
 

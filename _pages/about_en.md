@@ -8,6 +8,7 @@ redirect_from:
   - /about_en.html
 ---
 
+[Japanese page(md)](about.md)
 
 ## Bio
 Hello, my name is Tatsuro Inaba.
@@ -32,4 +33,4 @@ I'm planning to pursue a Ph.D, intending to enroll in 2025.
 
 - 08/2023: Our poster won the Encouragement Award (20/139) at [YANS2023](https://yans.anlp.jp/entry/yans2023).
 - 06/2023: Our paper was accepted for [ACL2023](https://2023.aclweb.org/) main conference.
-- 03/2023: Our paper won the Excellence Award at [NLP2023](https://www.anlp.jp/nlp2023/).
+- 03/2023: Our paper won the Excellence Award(11/579) at [NLP2023](https://www.anlp.jp/nlp2023/).

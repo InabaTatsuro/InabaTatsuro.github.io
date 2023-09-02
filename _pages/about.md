@@ -4,11 +4,11 @@ title: "About ja"
 excerpt: "About me ja"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_jp/
+  - /about_jp.html
 ---
 
-[English page(md)](about_en.md)
+[English page](about.html)
 
 ## Bio
 京都大学情報学研究科[知能情報学コース](https://www.ist.i.kyoto-u.ac.jp/)修士1年の稲葉達郎です．

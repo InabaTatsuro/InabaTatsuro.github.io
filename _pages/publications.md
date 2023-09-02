@@ -13,9 +13,15 @@ permalink: /publications/
 {{pub.name}} <br>
 "{{pub.title}}" <br>
 <em>{{pub.conf}} </em>
+{% if pub.code != "" %}
 <a href="{{pub.code}}">[code]</a>
+{% endif %}
+{% if pub.paper != "" %}
 <a href="{{pub.paper}}">[paper]</a>
+{% endif %}
+{% if pub.poster != "" %}
 <a href="{{pub.poster}}">[poster]</a>
+{% endif %}
 <span style="color: #b74170;"><br>{{pub.award}}</span>
 </p>
 {% endfor %}
@@ -27,9 +33,15 @@ permalink: /publications/
 "{{pub.title}}" <br>
 「{{pub.yomi}}」 <br>
 <em>{{pub.conf}} </em>
+{% if pub.code != "" %}
 <a href="{{pub.code}}">[code]</a>
+{% endif %}
+{% if pub.paper != "" %}
 <a href="{{pub.paper}}">[paper]</a>
+{% endif %}
+{% if pub.poster != "" %}
 <a href="{{pub.poster}}">[poster]</a>
+{% endif %}
 <span style="color: #b74170;"><br>{{pub.award}}</span>
 </p>
 {% endfor %}

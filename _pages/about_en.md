@@ -4,11 +4,11 @@ title: "About en"
 excerpt: "About me en"
 author_profile: true
 redirect_from: 
-  - /about_en/
-  - /about_en.html
+  - /about/
+  - /about.html
 ---
 
-[Japanese page(md)](about.md)
+[Japanese page](about_jp.html)
 
 ## Bio
 Hello, my name is Tatsuro Inaba.
@@ -21,7 +21,7 @@ I'm especially interested in the following topics:
 - Symbolic Music Generation
 - Chain-of-Thought (CoT)
 - Knowledge Distillation
-- Tool Augmented Model
+- Tool Augmented Language Model
 
 I hope to create an AI that assists in difficult situations rather than taking away human pleasures.
 

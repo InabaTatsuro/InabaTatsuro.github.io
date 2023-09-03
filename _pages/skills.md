@@ -14,4 +14,4 @@ permalink: /skills/
 - Python, C++, JavaScript, HTML, CSS
 
 ## Frameworks, Libraries, etc.
-- PyTorch, React, Docker, Kubernetes, AWS, Git, FastAPI, etc.
+- PyTorch, Docker, React, Kubernetes, AWS, Git, FastAPI, etc.

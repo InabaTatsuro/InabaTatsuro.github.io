@@ -8,6 +8,7 @@ permalink: /publications/
 {% include base_path %}
 
 ## International Conference
+
 {% for pub in site.data.publications_international.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
@@ -26,7 +27,9 @@ permalink: /publications/
 </p>
 {% endfor %}
 
+
 ## Domestic Conference
+
 {% for pub in site.data.publications_domestic.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>

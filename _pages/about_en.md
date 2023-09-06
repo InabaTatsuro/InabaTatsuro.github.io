@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About en"
-excerpt: "About me en"
+title: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-[/about_jp/](/about_jp/)
 
 ## Bio
 Hello, my name is Tatsuro Inaba.

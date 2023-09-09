@@ -21,10 +21,8 @@ I'm especially interested in the following topics:
 - Knowledge Distillation
 - Tool Augmented Language Model
 
-I hope to create an AI that assists in difficult situations rather than taking away human pleasures.
 
-
-I'm planning to pursue a Ph.D, intending to enroll in 2025.
+I'm planning to get my Ph.D, intending to enroll in 2025.
 
 
 ## News

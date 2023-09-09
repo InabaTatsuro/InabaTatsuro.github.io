@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[jp](https://tatsuroinaba.github.io/about_jp/)
+
 ## Bio
 Hello, my name is Tatsuro Inaba.
 I'm currently a first-year master's student studying in the [Intelligence Science and Technology Course](https://www.ist.i.kyoto-u.ac.jp/) at Kyoto University.

@@ -13,7 +13,7 @@ author_profile: true
 Keywords: 音楽情報処理（音楽生成・自動採譜），自然言語処理（知識蒸留・Chain-of-Thought・Knowledge Retrieval・Tool-Augmented）
 
 音楽情報処理では，シンボリックな音楽生成や自動採譜に興味があります．
-また，学部時代・企業インターンに自然言語処理の研究を行なっており，特に知識蒸留によるモデルの小型化や Chain-of-Thought, Knowledge Retrieval, Tool Augmented 等に興味・知識があります．
+また，学部時代・企業インターンに自然言語処理の研究を行なっており，特に知識蒸留によるモデルの小型化や Chain-of-Thought, Knowledge Retrieval, Tool Augmented LM 等に興味・知識があります．
 
 2025年3月に修士取得後，海外の Ph.D. に進学したいと思っています．
 

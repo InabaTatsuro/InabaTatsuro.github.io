@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[jp](https://tatsuroinaba.github.io/about_jp/)
+[jp](https://inabatatsuro.github.io/about_jp/)
 
 ## Bio
 Hello, my name is Tatsuro Inaba.

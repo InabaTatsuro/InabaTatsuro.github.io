@@ -32,7 +32,7 @@ permalink: /publications/
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
 "{{pub.title}}" <br>
-「{{pub.yomi}}」 <br>
+{{pub.yomi}} <br>
 <em>{{pub.conf}} </em>
 {% if pub.code != "" %}
 <a href="{{pub.code}}">[code]</a>
@@ -54,7 +54,7 @@ permalink: /publications/
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
 "{{pub.title}}" <br>
-「{{pub.yomi}}」 <br>
+{{pub.yomi}} <br>
 <em>{{pub.conf}} </em>
 {% if pub.code != "" %}
 <a href="{{pub.code}}">[code]</a>

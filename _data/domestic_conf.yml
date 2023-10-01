@@ -2,7 +2,7 @@ main:
 
 - title: "Two Minds Are Better Than One"
   name: "<b>Tatsuro Inaba</b>, Takuro Fujii, Ryoma Obara, Koki Shibata."
-  yomi: "三言語モデル寄れば文殊の知恵を"
+  yomi: "「三言語モデル寄れば文殊の知恵を」"
   conf: "NLP若手の会 (YANS) 第18回シンポジウム (2023)"
   code: ""
   paper: ""
@@ -11,7 +11,7 @@ main:
 
 - title: "Reasoning Framework with Using Multiple External Tools based on LLMs"
   name: "<b>Tatsuro Inaba</b>, Hirokazu Kiyomaru, Fei Cheng, and Sadao Kurohashi"
-  yomi: "大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク"
+  yomi: "「大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク」"
   conf: "The Association for the 29th Natural Language Processing (NLP 2023) in Japan."
   code: ""
   paper: "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q8-10.pdf"

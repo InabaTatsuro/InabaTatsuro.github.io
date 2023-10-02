@@ -1,6 +1,6 @@
 main:
 
-- title: 'The research of "Reasoning Framework with Using Multiple External Tools based on LLMs"'
+- title: 'Research on "MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting"'
   name: "<b>Tatsuro Inaba</b>"
   yomi: "「大規模言語モデルに基づく複数の外部ツールを利用した 推論フレームワーク」の研究"
   conf: "Natural Language Processing, Japan, 2023, Volume 30, Issue 3, pp. 1100-1104. Published on 2023/09/15, Online ISSN 2185-8314, Print ISSN 1340-7619."

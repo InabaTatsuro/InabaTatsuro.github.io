@@ -11,7 +11,7 @@ permalink: /publications/
 {% for pub in site.data.international_conf.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
-"{{pub.title}}" <br>
+{{pub.title}} <br>
 <em>{{pub.conf}} </em>
 {% if pub.code != "" %}
 <a href="{{pub.code}}">[code]</a>
@@ -31,7 +31,7 @@ permalink: /publications/
 {% for pub in site.data.domestic_journal.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
-"{{pub.title}}" <br>
+{{pub.title}} <br>
 {{pub.yomi}} <br>
 <em>{{pub.conf}} </em>
 {% if pub.code != "" %}
@@ -53,7 +53,7 @@ permalink: /publications/
 {% for pub in site.data.domestic_conf.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
 {{pub.name}} <br>
-"{{pub.title}}" <br>
+{{pub.title}} <br>
 {{pub.yomi}} <br>
 <em>{{pub.conf}} </em>
 {% if pub.code != "" %}

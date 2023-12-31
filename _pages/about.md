@@ -18,7 +18,7 @@ I'm especially interested in the following topics:
 - Symbolic music generation with textual interaction
 - Relationship between Music and Lyrics
 - Application of NLP to Music
-- Application of LLMs[[Inaba+, ACL2023](https://arxiv.org/abs/2305.16896)]
+- Application of LLMs [[ACL2023](https://arxiv.org/abs/2305.16896)]
 
 
 I'm seeking a Ph.D. opportunity, aiming to enroll Fall 2025.

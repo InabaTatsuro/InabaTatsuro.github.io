@@ -4,7 +4,7 @@ main:
   time: "04/2019 - 03/2023"
   title: "B.S. Student"
   subtitle: "Electrical and Electronic Engineering"
-  lab: "[Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/), adviser: [Sadao Kurohashi](https://www.nii.ac.jp/en/faculty/director/)"
+  lab: "Language Media Processing Lab, adviser: Sadao Kurohashi"
   category: "school"
 
 - place: "DATAGRID Inc."
@@ -17,7 +17,7 @@ main:
   time: "04/2023 - 03/2025"
   title: "M.S. Student"
   subtitle: "Intelligence Science and Technology Course, Graduate School of Informatics"
-  lab: "[Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/), adviser: [Kazuyoshi Yoshii](http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/)"
+  lab: "Speech and Audio Processing Lab, adviser: Kazuyoshi Yoshii, Eita Nakamura"
   category: "school"
 
 - place: "Preferred Networks, Inc."

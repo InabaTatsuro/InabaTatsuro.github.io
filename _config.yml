@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ja-jp"
-title                    : "Tatsuro Inaba / Portfolio"
+title                    : "Tatsuro Inaba / 稲葉 達郎"
 title_separator          : "-"
 name                     : &name "Tatsuro Inaba"
 description              : &description "I'm a Master's student at Kyoto University."
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google0c2b9e5bdd54c20f.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :

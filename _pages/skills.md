@@ -6,12 +6,8 @@ permalink: /skills/
 ---
 
 
-## Certification
 - TOEIC: 845(2022/5)
-- Atcoder: 1230(Now) [link](https://atcoder.jp/users/nia_pfgt)
+- Atcoder: 1230 ([link](https://atcoder.jp/users/)nia_pfgt)
 
-## Programming Languages
-- Python, C++, JavaScript, HTML, CSS
-
-## Frameworks, Libraries, etc.
-- PyTorch, Docker, React, Kubernetes, AWS, Git, FastAPI, etc.
+- Programming Language
+  - Python, C++, C, JavaScript, HTML/CSS

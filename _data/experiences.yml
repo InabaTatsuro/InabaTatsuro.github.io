@@ -9,7 +9,7 @@ main:
 
 - place: "DATAGRID Inc."
   time: "11/2022 - 7/2023"
-  title: "Reseach and Development Engineer, Part-time"
+  title: "Reseach Engineer, Part-time"
   subtitle: "Music Generation Group and Drug Discovery Group"
   category: "work"
 
@@ -34,6 +34,6 @@ main:
 
 - place: "Kyoto University"
   time: "11/2023 - present"
-  title: "Office Assistant"
-  subtitle: ""
+  title: "Research Assistant"
+  subtitle: "Music Information Processing"
   category: "work"

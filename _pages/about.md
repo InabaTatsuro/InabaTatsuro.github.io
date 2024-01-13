@@ -16,6 +16,7 @@ I belong to the [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp
 My research goal is to create an AI that can teach composition interactively.
 While the idea of AI composing music is fascinating, I aspire to foster a world where people can learn about diverse music, such as foreign music, from AI and use this knowledge for rich self-expression.
 I am committed to exploring what is truly essential when humans take the lead in composing.
+Additionaly, I really enjoy playing the guitar and piano, as well as composing music.
 
 
 I'm especially interested in the following topics:

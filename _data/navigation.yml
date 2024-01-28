@@ -5,11 +5,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Experiences"
-    url: /experiences/
+  # - title: "Experiences"
+  #   url: /experiences/
 
-  - title: "Activities"
-    url: /activities/
+  # - title: "Activities"
+  #   url: /activities/
   
-  - title: "Skills"
-    url: /skills/
+  # - title: "Skills"
+  #   url: /skills/
